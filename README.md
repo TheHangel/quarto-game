@@ -1,6 +1,10 @@
 # Quarto Game
 A video game based on the board game "Quarto" made with a pair developer for my CS faculty.
 
+## How to play
+
+Quarto Game Manual at https://www.hangel.dev/projets/quarto.html
+
 ## How to run
 
 Run these commands in your terminal

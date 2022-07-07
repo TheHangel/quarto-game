@@ -1,5 +1,5 @@
 # Quarto Game
-A video game based on the board game "Quarto" made with a pair developer for my CS faculty.
+A video game based on the board game "Quarto" made with a pair developer for my CS degree.
 
 ## How to play
 
